@@ -55,4 +55,4 @@ BACKLIGHT_ENABLE = no  # Enable keyboard backlight functionality
 AUDIO_ENABLE = no
 RGBLIGHT_ENABLE = no
 
-LAYOUTS = 60_ansi 60_iso
+LAYOUTS = 60_ansi 60_iso 60_hhkb
